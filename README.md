@@ -63,6 +63,4 @@ BSc Data Science – Google Colab Project
 
 ---
 
-## 📌 Note
 
-If you clone this repo, **remember to upload the dataset manually** each time you run the notebook.
