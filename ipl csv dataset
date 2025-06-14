@@ -1,0 +1,15 @@
+# IPL Data Analysis Project
+
+This project uses Python (Pandas, NumPy, Matplotlib) to analyze IPL cricket data.
+
+## 📁 Dataset
+
+The dataset is too large to include directly in this repository.  
+You can download it from the following Google Drive link:
+
+🔗 [Download IPL.csv](https://drive.google.com/file/d/1IonUAxixgCyTbrhalNUxzLMmlUbZRDNe/view?usp=drive_link)
+
+## 📊 Libraries Used
+- `pandas`: for data loading and data manipulation
+- `numpy`: for numeric calculations (mean, max, etc.)
+- `matplotlib`: for plotting graphs (bar charts, pie charts, etc.)
